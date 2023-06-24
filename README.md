@@ -18,7 +18,7 @@
 
    * Service -
 
-     it Will receive request from controller and this will manipute the operation and send send request to DAO layer
+     it Will receive request from controller and this will manipulate the operation and send send request to DAO layer
 
    * Repository -
 
@@ -26,17 +26,20 @@
 
    * DataBase Design -
 
-     For Database i am using MySQL and created a pogo for user management where i performing CRUD operation with user     basic information.
+     For Database i am using MySQL and created a pogo for user management where i performing CRUD 
+     operation with user basic information.
  
 #  Data Structure used in project
  
    * DataBase Design -
 
-     In this project mostly used ArrayList & along with java 8 feature like optional class and lambda experssion. 
+     In this project mostly used ArrayList & along with java 8 feature like optional class and 
+     lambda expression. 
 
 
 #  Project Summary
     
    
-   * In UserManagement System i created a rest api with the help of spring boot where we can perform CRUD opeartion with the user  information.
+   * In UserManagement System i created a Rest APIs with the help of spring boot where we can perform
+    CRUD operation with the user information.
 
